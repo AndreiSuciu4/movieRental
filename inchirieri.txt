@@ -1,0 +1,7 @@
+
+1,1,Andrei Suciu,5012412521412,1,Titanic,rasturnare de vas,film de dragoste,1,1,2021
+2,1,Andrei Suciu,5012412521412,2,1917,primul razboi mondial,istorie,2,2,2021
+3,2,Stirbu Diana,5012414102141,3,Home Alone,poveste de Craciun,comedie,1,1,2021
+4,3,Malina Naclad,5012014102012,4,Home Alone 2,poveste de Craciun,comedie,1,1,2021
+5,4,Gabi Mircea,1241025214702,5,Avatar,experimente,SF,1,1,2021
+6,5,Florin Bucur,5012321401121,1,Titanic,rasturnare de vas,film de dragoste,1,1,2022
